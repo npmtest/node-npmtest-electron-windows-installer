@@ -1,0 +1,35 @@
+<svg height="510" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="510" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-23 05:46:56 +0000 10263689 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-23 05:46:56 +0000     1084 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-23 05:46:56 +0000     6497 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-23 05:46:56 +0000     5425 bytes  dist/index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-23 05:46:56 +0000     1832 bytes  dist/utils.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-23 05:46:56 +0000     3051 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-23 05:46:56 +0000     2486 bytes  resources/icon.png</tspan>
+<tspan x="10" y="138">  7.  2017-04-23 05:46:56 +0000    44410 bytes  resources/install-spinner.gif</tspan>
+<tspan x="10" y="154">  8.  2017-04-23 05:46:56 +0000      994 bytes  resources/template.nuspec</tspan>
+<tspan x="10" y="170">  9.  2017-04-23 05:46:56 +0000    45056 bytes  vendor/Microsoft.Deployment.Resources.dll</tspan>
+<tspan x="10" y="186"> 10.  2017-04-23 05:46:56 +0000   176128 bytes  vendor/Microsoft.Deployment.WindowsInstaller.dll</tspan>
+<tspan x="10" y="202"> 11.  2017-04-23 05:46:56 +0000   207360 bytes  vendor/Setup.exe</tspan>
+<tspan x="10" y="218"> 12.  2017-04-23 05:46:56 +0000  1511424 bytes  vendor/Squirrel-Mono.exe</tspan>
+<tspan x="10" y="234"> 13.  2017-04-23 05:46:56 +0000     7680 bytes  vendor/Squirrel.com</tspan>
+<tspan x="10" y="250"> 14.  2017-04-23 05:46:56 +0000  1515008 bytes  vendor/Squirrel.exe</tspan>
+<tspan x="10" y="266"> 15.  2017-04-23 05:46:56 +0000  1602048 bytes  vendor/SyncReleases.exe</tspan>
+<tspan x="10" y="282"> 16.  2017-04-23 05:46:56 +0000   352256 bytes  vendor/WixNetFxExtension.dll</tspan>
+<tspan x="10" y="298"> 17.  2017-04-23 05:46:56 +0000    82432 bytes  vendor/WriteZipToSetup.exe</tspan>
+<tspan x="10" y="314"> 18.  2017-04-23 05:46:56 +0000    28672 bytes  vendor/candle.exe</tspan>
+<tspan x="10" y="330"> 19.  2017-04-23 05:46:56 +0000      669 bytes  vendor/candle.exe.config</tspan>
+<tspan x="10" y="346"> 20.  2017-04-23 05:46:56 +0000   694784 bytes  vendor/darice.cub</tspan>
+<tspan x="10" y="362"> 21.  2017-04-23 05:46:56 +0000    32768 bytes  vendor/light.exe</tspan>
+<tspan x="10" y="378"> 22.  2017-04-23 05:46:56 +0000      669 bytes  vendor/light.exe.config</tspan>
+<tspan x="10" y="394"> 23.  2017-04-23 05:46:56 +0000  1664000 bytes  vendor/nuget.exe</tspan>
+<tspan x="10" y="410"> 24.  2017-04-23 05:46:56 +0000   152576 bytes  vendor/rcedit.exe</tspan>
+<tspan x="10" y="426"> 25.  2017-04-23 05:46:56 +0000   237392 bytes  vendor/signtool.exe</tspan>
+<tspan x="10" y="442"> 26.  2017-04-23 05:46:56 +0000     1804 bytes  vendor/template.wxs</tspan>
+<tspan x="10" y="458"> 27.  2017-04-23 05:46:56 +0000    20480 bytes  vendor/wconsole.dll</tspan>
+<tspan x="10" y="474"> 28.  2017-04-23 05:46:56 +0000   115712 bytes  vendor/winterop.dll</tspan>
+<tspan x="10" y="490"> 29.  2017-04-23 05:46:56 +0000  1748992 bytes  vendor/wix.dll</tspan>
+</text>
+</svg>
